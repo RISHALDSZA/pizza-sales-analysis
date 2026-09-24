@@ -57,6 +57,15 @@ The dashboard includes:
 
 ![Sales Performance](Dashboard/Sales_Performance.png)
 
+## 📚 Key Learnings
+
+- Learned how to use PostgreSQL for data analysis and SQL queries.
+- Practiced aggregations, filtering, grouping, sorting, and subqueries.
+- Learned how to calculate business KPIs such as Total Revenue and Average Order Value.
+- Learned how to connect and analyze data in Microsoft Power BI.
+- Created interactive dashboards using charts, cards, slicers, and navigators.
+- Improved skills in presenting sales insights through data visualization.
+
 ## 📁 Project Structure
 
 ```text
@@ -75,11 +84,4 @@ pizza-sales-analysis/
 │
 └── README.md
 
-## 📚 Key Learnings
 
-- Learned how to use PostgreSQL for data analysis and SQL queries.
-- Practiced aggregations, filtering, grouping, sorting, and subqueries.
-- Learned how to calculate business KPIs such as Total Revenue and Average Order Value.
-- Learned how to connect and analyze data in Microsoft Power BI.
-- Created interactive dashboards using charts, cards, slicers, and navigators.
-- Improved skills in presenting sales insights through data visualization.
